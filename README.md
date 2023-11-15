@@ -1,5 +1,5 @@
 # iocube_master_C3
-This is Wire Transmission ( Server) example. 
+This is bluetooth server on esp32-c3 example. 
 
 ## How to Use
 1.Find out ioCube device has been connected to yourPC.
