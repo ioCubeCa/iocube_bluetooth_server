@@ -2,7 +2,7 @@
 This is bluetooth server on esp32-c3 example. 
 
 ## Board
-![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/serverboard.jpg)
+![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/serverboard.jpeg)
 
 ## How to Use
 1.Find out ioCube device has been connected to yourPC.
