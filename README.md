@@ -1,5 +1,5 @@
-# iocube_master_C3
-This is bluetooth server on esp32-c3 example. 
+# iocube_bluetooth_server
+This script engine is developed on the ESP32-C3 module with Bluetooth connectivity.
 
 ## Board
 ![image](https://github.com/ioCubeCa/iocube_master_C3/blob/main/serverboard.jpeg)
